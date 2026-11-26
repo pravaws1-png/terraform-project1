@@ -12,9 +12,9 @@ variable "my-bucket-name" {
 }
 variable "instance_count" {
   type    = number
-  default= 1
+  default = 1
 }
 variable "dynamodb_table_count" {
   type    = number
-  default= 1
+  default = 1
 }
