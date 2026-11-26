@@ -1,0 +1,15 @@
+# Terraform working directory
+.terraform/
+
+# Terraform state files
+*.tfstate
+*.tfstate.*
+
+# Terraform plan files
+*.tfplan
+
+# Private SSH key
+terraform-key
+
+# Crash logs
+crash.log
